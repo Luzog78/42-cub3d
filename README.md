@@ -51,8 +51,8 @@ reinforce your understanding of graphics programming and computational geometry 
 
 To install cub3D, clone the project and download the minilibx :
 ```bash
-git clone git@github.com:fZpHr/cub3d_42.git
-cd cub3d_42
+git clone git@github.com:Luzog78/42-cub3d.git
+cd 42-cub3d
 ```
 
 Downloading the minilibx :
